@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 96" fill="none">
+  <!-- Concept 3: Sleek Two-Tone Isometric 4K Bullet Camera Icon -->
+  <g transform="translate(4, 8)">
+    <rect x="0" y="0" width="80" height="80" rx="16" fill="#0D1117" stroke="#21262D" stroke-width="1.5"/>
+    <!-- Isometric Camera Sunshield / Top Housing (Pure White) -->
+    <path d="M16 32 L50 16 C56 14 64 17 66 23 L66 32 L34 48 L16 32 Z" fill="#FFFFFF"/>
+    <!-- Isometric Lower Chassis & Lens Bezel (International Orange) -->
+    <path d="M18 34 L34 48 L64 33 L64 40 L34 55 C29 57 20 53 18 47 Z" fill="#FF5500"/>
+    <!-- Recessed Lens Face & Optic -->
+    <rect x="17" y="33" width="15" height="16" rx="4" fill="#0D1117" stroke="#FF5500" stroke-width="2.5"/>
+    <circle cx="24.5" cy="41" r="4" fill="#FF5500"/>
+    <!-- Minimalist Mounting Arm -->
+    <path d="M46 49 V62 C46 64 48 65 51 64 L64 57" stroke="#FFFFFF" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <text x="104" y="46" fill="#FFFFFF" font-family="'Inter', -apple-system, BlinkMacSystemFont, sans-serif" font-weight="900" font-size="30" letter-spacing="-0.8">CONSTRUCTION</text>
+  <text x="104" y="76" fill="#94A3B8" font-family="'Inter', -apple-system, BlinkMacSystemFont, sans-serif" font-weight="700" font-size="22" letter-spacing="3.5">WEBCAMS</text>
+  <rect x="278" y="56" width="68" height="24" rx="6" fill="#FF5500"/>
+  <circle cx="291" cy="68" r="3.5" fill="#FFFFFF"/>
+  <text x="300" y="72.5" fill="#FFFFFF" font-family="'Inter', -apple-system, BlinkMacSystemFont, sans-serif" font-weight="800" font-size="11.5" letter-spacing="0.8">4K LIVE</text>
+</svg>
